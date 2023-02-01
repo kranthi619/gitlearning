@@ -1,0 +1,4 @@
+#P2 clients store their default bundle pool locations here
+#Fri Jan 20 02:57:41 PST 2023
+org.eclipse.oomph.setup.ui=C\:\\Users\\Realme\\.p2\\pool
+org.eclipse.oomph.setup.ui\:agent=C\:\\Users\\Realme\\.p2
